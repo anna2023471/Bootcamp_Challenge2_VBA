@@ -1,5 +1,5 @@
 # Bootcamp_Challenge2_VBA
-Challenge 2 Submission
+Challenge 2 Submission.
 Screenshots of output submitted in following files:
 2018_Bonus_Output.png
 2018_Main_Output.png
